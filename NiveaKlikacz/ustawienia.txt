@@ -1,0 +1,11 @@
+adresEMAIL;kamo@losice.net
+captchy;66axmz
+liczba;200
+czyKlikac;true
+czyUzycListyAdresow;true
+predkosc;normal
+pozycjaGLOSUJ;834;744
+pozycjaAdresEMAIL;370;560
+pozycjaCAPTCHY;491;644
+pozycjaOK2;711;637
+pozycjaOSWIADCZENIE;703;470
